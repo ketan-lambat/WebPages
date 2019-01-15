@@ -1,2 +1,2 @@
 # WebPages
-Website Created as for IOTA Club assignment
+Website Created for IOTA Club assignment
